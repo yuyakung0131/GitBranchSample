@@ -10,6 +10,7 @@ public class MainApp {
 		Math cMath = new Math();
 		System.out.println();
 		System.out.println(cMath.add(10, 20));
+		System.out.println("nnnnnnn");
 	}
 
 }
